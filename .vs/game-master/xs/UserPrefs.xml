@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{70299C95-A6F6-CB95-2AC4-AB3486D52B68}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Loader.cs" Line="13" Column="36" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="15" Column="33" />
+      <File FileName="Assets/_Complete-Game/Scripts/GameManager.cs" Line="77" Column="10" />
+      <File FileName="../../Documents/Unity_Proyects/Tutorial_Proyect/2D_Rogue_Like/Assets/Scripts/GameManager.cs" Line="54" Column="3" />
+      <File FileName="Assets/Scripts/BoardManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MovingObject.cs" Line="33" Column="1" />
+      <File FileName="Assets/_Complete-Game/Scripts/BoardManager.cs" Line="153" Column="36" />
+      <File FileName="Assets/_Complete-Game/Scripts/Loader.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Complete-Game/Scripts/MovingObject.cs" Line="34" Column="1" />
+      <File FileName="Assets/_Complete-Game/Scripts/Wall.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Complete-Game/Scripts/Player.cs" Line="123" Column="23" />
+      <File FileName="Assets/Scripts/Player.cs" Line="86" Column="25" />
+      <File FileName="Assets/_Complete-Game/Scripts/SoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="game-master" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Complete-Game" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Enemy.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="51cca990-31b9-4988-9bbd-1beca367dab4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
